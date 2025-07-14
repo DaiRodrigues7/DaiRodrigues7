@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou a Dai!
+# 👋 Olá, pessoinhas, eu sou a Dai!
 
 🎯 Desenvolvedora front-end em formação, focada em escrever códigos limpos e aprender cada dia mais.  
 💻 Apaixonada por criar interfaces bonitas e funcionais.  
