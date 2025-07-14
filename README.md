@@ -1,4 +1,4 @@
-##Olá, eu sou a Dai!! 👋
+# 👋 Oi, eu sou a Dai!
 
 <!--
 **DaiRodrigues7/DaiRodrigues7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
