@@ -10,7 +10,7 @@
 
 🎓 Estudante de Sistemas de Informação – 4º período  
 📚 Aprendendo Javascript, além de Java e aprimorando Python  
-✨ Curiosa por tecnologia, apaixonada por design e sempre buscando desafios interessantes  
+✨ Curiosa por tecnologia, gosto de design e sempre em busca de desafios interessantes  
 
 ---
 
